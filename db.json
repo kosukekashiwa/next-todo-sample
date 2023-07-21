@@ -1,0 +1,43 @@
+{
+  "todos": [
+    { "id": 0, "text": "todo-0", "done": true },
+    { "id": 1, "text": "todo-1", "done": false },
+    { "id": 2, "text": "todo-2", "done": true },
+    { "id": 3, "text": "todo-3", "done": false },
+    { "id": 4, "text": "todo-4", "done": true }
+  ],
+  "users": [
+    { "id": "0", "name": "userName-0" },
+    { "id": "1", "name": "userName-1" },
+    { "id": "2", "name": "userName-2" },
+    { "id": "3", "name": "userName-3" },
+    { "id": "4", "name": "userName-4" }
+  ],
+  "articles": [
+    {
+      "id": 0,
+      "title": "articleTitle-0",
+      "author": { "id": "0", "name": "userNameHoge-0" }
+    },
+    {
+      "id": 1,
+      "title": "articleTitle-1",
+      "author": { "id": "1", "name": "userNameHoge-1" }
+    },
+    {
+      "id": 2,
+      "title": "articleTitle-2",
+      "author": { "id": "2", "name": "userNameHoge-2" }
+    },
+    {
+      "id": 3,
+      "title": "articleTitle-3",
+      "author": { "id": "3", "name": "userNameHoge-3" }
+    },
+    {
+      "id": 4,
+      "title": "articleTitle-4",
+      "author": { "id": "4", "name": "userNameHoge-4" }
+    }
+  ]
+}
