@@ -1,0 +1,13 @@
+{
+  "prefectures": [
+    { "id": 0, "name": "新潟県", "population": 2201272, "area": 12583.96 },
+    { "id": 1, "name": "富山県", "population": 1034814, "area": 4247.54 },
+    { "id": 2, "name": "石川県", "population": 1132526, "area": 4186.23 },
+    { "id": 3, "name": "福井県", "population": 766863, "area": 4190.58 },
+    { "id": 4, "name": "山梨県", "population": 809974, "area": 4465.27 },
+    { "id": 5, "name": "長野県", "population": 2048011, "area": 13561.56 },
+    { "id": 6, "name": "岐阜県", "population": 1978742, "area": 10621.29 },
+    { "id": 7, "name": "静岡県", "population": 3633202, "area": 7777.02 },
+    { "id": 8, "name": "愛知県", "population": 7542415, "area": 5173.23 }
+  ]
+}
